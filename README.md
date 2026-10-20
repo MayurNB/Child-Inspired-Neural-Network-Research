@@ -22,4 +22,4 @@ Current massive language and AI models operate purely on statistical distributio
 * **Neuromorphic Benchmarking:** Exploring physical compatibility vectors with advanced neuromorphic chip layouts for real-time processing enhancement.
 
 ---
-*Authored by **Mayur Nilesh Barhate** | Computer Science & Engineering *
+*Authored by **Mayur Nilesh Barhate** | Computer Science & Engineering*
